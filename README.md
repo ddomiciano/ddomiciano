@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @ddomiciano
 - 👀 I'm interested in web programming and systems development
 - 🌱 I'm currently learning to program in Python
-- 📫 Contact me, contato@domiciano.co.uk
+- 📫 Contact me, www.domiciano.uk
 - 😄 I'm happy to program
 - ⚡ Fun fact: I'm looking to build new web systems
 
